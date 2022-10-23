@@ -4,7 +4,7 @@ Y-tunnus 3319753-2
 
 #### Mission (in Finnish)
 
-Yhdistyksen tarkoituksena on ylläpitää ja edistää erityisesti bachata-tanssin harrastusmahdollisuuksia pääkaupungiseudulla ja lähialueilla. Yhdistys tukee mahdollisuuksiensa mukaan myös muita tanssilajeja (mm. salsa, kizomba ja zouk).
+Yhdistyksen tarkoituksena on ylläpitää ja edistää erityisesti bachata-tanssin harrastusmahdollisuuksia pääkaupunkiseudulla ja lähialueilla. Yhdistys tukee mahdollisuuksiensa mukaan myös muita tanssilajeja (mm. salsa, kizomba ja zouk).
 
 #### Board
 
