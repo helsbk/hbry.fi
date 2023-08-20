@@ -2,11 +2,13 @@
 
 Y-tunnus 3319753-2
 
-#### Mission (in Finnish)
-
 Yhdistyksen tarkoituksena on ylläpitää ja edistää erityisesti bachata-tanssin harrastusmahdollisuuksia pääkaupunkiseudulla ja lähialueilla. Yhdistys tukee mahdollisuuksiensa mukaan myös muita tanssilajeja (mm. salsa, kizomba ja zouk).
 
-#### Board
+[**→ Säännöt**](/rules)
+
+[**→ Liity jäseneksi**](https://docs.google.com/forms/d/e/1FAIpQLSc0u6lpxgDvvMPg7_Y4pfvEzh4HCDFarh-h2Hi_BbaaTba5oQ/viewform)
+
+#### Hallitus
 
 * Biru Mohanathas (puheenjohtaja)
 * Kalle Toiskallio (varapuheenjohtaja)
@@ -15,6 +17,6 @@ Yhdistyksen tarkoituksena on ylläpitää ja edistää erityisesti bachata-tanss
 * Arttu Porrassalmi
 * Petra Kumpulainen
 
-#### Contact
+#### Ota yhteyttä
 
-Send us an email to info (ät) hbry.fi
+Lähetä sähköposti osoitteeseen info (ät) hbry.fi
