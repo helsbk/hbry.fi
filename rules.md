@@ -8,13 +8,16 @@ Yhdistyksen tarkoituksena on ylläpitää ja edistää erityisesti bachata-tanss
 
 Tarkoituksensa toteuttamiseksi yhdistys:
 
-- voi järjestää kursseja, harjoitus- ja opetustilaisuuksia sekä muuta vastaavaa toimintaa - voi järjestää kilpailuja, näytöksiä, retkiä, leirejä ja muita tapahtumia
+- voi järjestää kursseja, harjoitus- ja opetustilaisuuksia sekä muuta vastaavaa toimintaa
+- voi järjestää kilpailuja, näytöksiä, retkiä, leirejä ja muita tapahtumia
 - voi järjestää juhlia, konsertteja, näyttelyitä tai muita tilaisuuksia
 - voi ylläpitää yhdistyksen sähköisiä viestintäkanavia
-- voi julkaista yhdistyksen tiedotteita ja muuta viestintää eri viestintäkanavissa - neuvoo ja ohjaa jäseniään
+- voi julkaista yhdistyksen tiedotteita ja muuta viestintää eri viestintäkanavissa
+- neuvoo ja ohjaa jäseniään
 - osallistuu julkiseen keskusteluun alaan liittyvissä asioissa
 - voi kerätä ja jakaa tietoa sekä harjoittaa tutkimustoimintaa
-- kokoaa jäsenet yhteiseen toimintaan ja ylläpitää yhteyksiä muihin alan yhdistyksiin - voi järjestää yhdistyksen tarkoitukseen liittyviä matkoja jäsenilleen
+- kokoaa jäsenet yhteiseen toimintaan ja ylläpitää yhteyksiä muihin alan yhdistyksiin
+- voi järjestää yhdistyksen tarkoitukseen liittyviä matkoja jäsenilleen
 - voi osallistua jäsentensä välittömiin kilpailukustannuksiin
 - voi hankkia tarvittavia aineistoja ja välineitä yhdistyksen käyttöön
 - pyrkii järjestämään käyttöönsä tilat, joita yhdistyksen jäsenet voivat käyttää
@@ -22,12 +25,14 @@ Tarkoituksensa toteuttamiseksi yhdistys:
 - voi tehdä esityksiä, aloitteita ja selvityksiä sekä antaa lausuntoja muille yhteisöille ja viranomaisille
 - toimii yhteistyössä viranomaisten, järjestöjen, yritysten ja yksityishenkilöiden kanssa
 
-Toimintansa tukemiseksi yhdistys voi, hankittuaan tarvittaessa asianomaisen luvan: - järjestää rahankeräyksiä ja arpajaisia
+Toimintansa tukemiseksi yhdistys voi, hankittuaan tarvittaessa asianomaisen luvan:
 
+- järjestää rahankeräyksiä ja arpajaisia
 - järjestää myyjäisiä, kirpputori- ja muita tapahtumia
 - järjestää maksullisia tilaisuuksia
 - ottaa vastaan avustuksia, lahjoituksia ja testamentteja
-- omistaa toimintansa kannalta tarpeellista irtainta ja kiinteää omaisuutta - myydä mainostilaa
+- omistaa toimintansa kannalta tarpeellista irtainta ja kiinteää omaisuutta
+- myydä mainostilaa
 - solmia sponsorisopimuksia
 
 ## 3. Jäsenet
