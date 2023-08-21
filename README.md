@@ -10,12 +10,12 @@ Yhdistyksen tarkoituksena on ylläpitää ja edistää erityisesti bachata-tanss
 
 #### Hallitus
 
-* Biru Mohanathas (puheenjohtaja)
-* Kalle Toiskallio (varapuheenjohtaja)
-* Saara Huhta (rahastonhoitaja)
-* Saara Moisio (sihteeri)
-* Arttu Porrassalmi
-* Petra Kumpulainen
+- Viola Elenius (puheenjohtaja)
+- Kalle Toiskallio (varapuheenjohtaja)
+- Nahaison Krips (tapahtumavastaava)
+- Biru Mohanathas (rahastonhoitaja)
+- Saara Huhta (sihteeri)
+- Arttu Porrassalmi (varajäsen)
 
 #### Ota yhteyttä
 
