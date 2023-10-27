@@ -13,7 +13,7 @@ Yhdistyksen tarkoituksena on ylläpitää ja edistää erityisesti bachata-tanss
 - Viola Elenius (puheenjohtaja)
 - Kalle Toiskallio (varapuheenjohtaja)
 - Nahaison Krips (tapahtumavastaava)
-- Biru Mohanathas (rahastonhoitaja)
+- Biru M (rahastonhoitaja)
 - Saara Huhta (sihteeri)
 - Arttu Porrassalmi (varajäsen)
 
